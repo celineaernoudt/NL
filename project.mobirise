@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "videoinstallatie.html",
     "name": "My Site NL",
     "theme": {
       "name": "mobirise3",
@@ -7013,7 +7013,7 @@
     },
     "werken.html": {
       "settings": {
-        "title": "Works",
+        "title": "Werken",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 2
       },
@@ -8202,7 +8202,7 @@
     },
     "geluid.html": {
       "settings": {
-        "title": "sound",
+        "title": "geluid",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 31
       },
@@ -8377,7 +8377,7 @@
     },
     "sculptuur.html": {
       "settings": {
-        "title": "sculpture",
+        "title": "sculptuur",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 32
       },
@@ -8843,7 +8843,7 @@
     },
     "fotoserie.html": {
       "settings": {
-        "title": "series of photographs",
+        "title": "fotoserie",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 33
       },
@@ -9018,7 +9018,7 @@
     },
     "puzzels.html": {
       "settings": {
-        "title": "puzzles",
+        "title": "puzzels",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 34
       },
@@ -9193,7 +9193,7 @@
     },
     "videoinstallatie.html": {
       "settings": {
-        "title": "videoinstallation",
+        "title": "videoinstallatie",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 35
       },
