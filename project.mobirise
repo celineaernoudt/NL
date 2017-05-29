@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "werken.html",
+    "currentPage": "video.html",
     "name": "My Site NL",
     "theme": {
       "name": "mobirise3",
@@ -35,7 +35,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Index",
+        "title": "Celine Aernoudt: index",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "header_custom": "",
         "footer_custom": "",
@@ -180,7 +180,7 @@
     },
     "curriculum.html": {
       "settings": {
-        "title": "Curriculum",
+        "title": "Celine Aernoudt: curriculum",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 3
       },
@@ -307,7 +307,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
+        "title": "Celine Aernoudt: contact",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 5
       },
@@ -499,7 +499,7 @@
     },
     "difficultbutallyours.html": {
       "settings": {
-        "title": "Difficult but all yours",
+        "title": "Celine Aernoudt: Difficult but all yours",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Difficult but all yours, Difficult, but, all, yours, happening, mixed media, 2017",
         "order": 4
       },
@@ -713,7 +713,7 @@
     },
     "ypsilonely.html": {
       "settings": {
-        "title": "Ypsilonely",
+        "title": "Celine Aernoudt: Ypsilonely",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, Ypsilonely, ob",
         "order": 6
       },
@@ -881,7 +881,7 @@
     },
     "kgahetzeggenwalter.html": {
       "settings": {
-        "title": "'k Ga het zeggen Walter",
+        "title": "Celine Aernoudt: 'k Ga het zeggen Walter",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt, 'k Ga het zeggen Walter",
         "order": 7
       },
@@ -1042,7 +1042,7 @@
     },
     "ZEEP#2.html": {
       "settings": {
-        "title": "ZEEP#2",
+        "title": "Celine Aernoudt: ZEEP#2",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 9
       },
@@ -1225,7 +1225,7 @@
     },
     "ZEEP.html": {
       "settings": {
-        "title": "ZEEP",
+        "title": "Celine Aernoudt: ZEEP",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 10
       },
@@ -1408,7 +1408,7 @@
     },
     "plethorainmountainscene.html": {
       "settings": {
-        "title": "Plethora in mountain scene",
+        "title": "Celine Aernoudt: Plethora in mountain scene",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 12
       },
@@ -1722,7 +1722,7 @@
     },
     "byebyeinfinito.html": {
       "settings": {
-        "title": "Bye Bye Infinito",
+        "title": "Celine Aernoudt: Bye Bye Infinito",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 13
       },
@@ -1966,7 +1966,7 @@
     },
     "growsomeballs.html": {
       "settings": {
-        "title": "Grow some balls",
+        "title": "Celine Aernoudt: Grow some balls",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 14
       },
@@ -2149,7 +2149,7 @@
     },
     "fullcarpetframework.html": {
       "settings": {
-        "title": "Full carpet framework",
+        "title": "Celine Aernoudt: Full carpet framework",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 15
       },
@@ -2410,7 +2410,7 @@
     },
     "raviolifeestmetsterren.html": {
       "settings": {
-        "title": "Raviolifeest met sterren",
+        "title": "Celine Aernoudt: Raviolifeest met sterren",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 16
       },
@@ -2649,7 +2649,7 @@
     },
     "3398.html": {
       "settings": {
-        "title": "3398",
+        "title": "Celine Aernoudt: 3398",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 17
       },
@@ -2972,7 +2972,7 @@
     },
     "vogelspotten.html": {
       "settings": {
-        "title": "Vogelspotten",
+        "title": "Celine Aernoudt: Vogelspotten",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 19
       },
@@ -3239,7 +3239,7 @@
     },
     "suddencracklinegestures.html": {
       "settings": {
-        "title": "Sudden Crack Line Gestures",
+        "title": "Celine Aernoudt: Sudden Crack Line Gestures",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 20
       },
@@ -3472,7 +3472,7 @@
     },
     "roer-me-niet.html": {
       "settings": {
-        "title": "Roer-me-niet",
+        "title": "Celine Aernoudt: Roer-me-niet",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 21
       },
@@ -3627,7 +3627,7 @@
     },
     "untitled.html": {
       "settings": {
-        "title": "Untitled",
+        "title": "Celine Aernoudt: Untitled",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 22
       },
@@ -3843,7 +3843,7 @@
     },
     "aantrede.html": {
       "settings": {
-        "title": "Aantrede",
+        "title": "Celine Aernoudt: Aantrede",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 11
       },
@@ -4026,7 +4026,7 @@
     },
     "framingofaninartificialgreenkey.html": {
       "settings": {
-        "title": "Framing of an inartificial green key",
+        "title": "Celine Aernoudt: Framing of an inartificial green key",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 18
       },
@@ -4237,7 +4237,7 @@
     },
     "2014.html": {
       "settings": {
-        "title": "works 2014",
+        "title": "Celine Aernoudt: werken 2014",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 23
       },
@@ -4525,7 +4525,7 @@
     },
     "2015.html": {
       "settings": {
-        "title": "works 2015",
+        "title": "Celine Aernoudt: werken 2015",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 24
       },
@@ -4933,7 +4933,7 @@
     },
     "2016.html": {
       "settings": {
-        "title": "works 2016",
+        "title": "Celine Aernoudt: werken 2016",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 25
       },
@@ -5457,7 +5457,7 @@
     },
     "2017.html": {
       "settings": {
-        "title": "works 2017",
+        "title": "Celine Aernoudt: werken 2017",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 26
       },
@@ -5745,7 +5745,7 @@
     },
     "video.html": {
       "settings": {
-        "title": "video",
+        "title": "Celine Aernoudt: video",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 27
       },
@@ -6036,7 +6036,7 @@
     },
     "videoperformance.html": {
       "settings": {
-        "title": "videoperformance",
+        "title": "Celine Aernoudt: videoperformance",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 28
       },
@@ -6331,7 +6331,7 @@
     },
     "happening.html": {
       "settings": {
-        "title": "happening",
+        "title": "Celine Aernoudt: happening",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 29
       },
@@ -6625,7 +6625,7 @@
     },
     "performance.html": {
       "settings": {
-        "title": "performance",
+        "title": "Celine Aernoudt: performance",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 30
       },
@@ -6858,7 +6858,7 @@
     },
     "didnttheytellyou.html": {
       "settings": {
-        "title": "Didn't they tell you?",
+        "title": "Celine Aernoudt: Didn't they tell you?",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 8
       },
@@ -7013,7 +7013,7 @@
     },
     "werken.html": {
       "settings": {
-        "title": "Werken",
+        "title": "Celine Aernoudt: werken",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 2
       },
@@ -8202,7 +8202,7 @@
     },
     "geluid.html": {
       "settings": {
-        "title": "geluid",
+        "title": "Celine Aernoudt: geluid",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 31
       },
@@ -8377,7 +8377,7 @@
     },
     "sculptuur.html": {
       "settings": {
-        "title": "sculptuur",
+        "title": "Celine Aernoudt: sculptuur",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 32
       },
@@ -8843,7 +8843,7 @@
     },
     "fotoserie.html": {
       "settings": {
-        "title": "fotoserie",
+        "title": "Celine Aernoudt: fotoserie",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 33
       },
@@ -9018,7 +9018,7 @@
     },
     "puzzels.html": {
       "settings": {
-        "title": "puzzels",
+        "title": "Celine Aernoudt: puzzels",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 34
       },
@@ -9193,7 +9193,7 @@
     },
     "videoinstallatie.html": {
       "settings": {
-        "title": "videoinstallatie",
+        "title": "Celine Aernoudt: videoinstallatie",
         "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
         "order": 35
       },
